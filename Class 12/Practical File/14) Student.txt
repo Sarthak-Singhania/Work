@@ -1,0 +1,6 @@
+RajatSen 12345 1 CSEE
+JagatNarain  13467 3 CSEE
+AnuSharma 11756 2 Biology
+SumitaTrikha 23451 4 Biology
+SumderKumra 11234 3 MME
+KantiBhushan  23211 3 CSEE
